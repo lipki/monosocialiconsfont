@@ -1,6 +1,8 @@
 Mono Social Icons Font
 ===================
 
+This is a fork of Ivan Drinchevs Mono Social Icons Font (https://github.com/drinchev/monosocialiconsfont) a researchgate and a plain google icon.
+
 Mono Social Icons Font is a webfont based on [Mono Social Icons](http://icondock.com/free/mono-social-icons), which includes ~100 social icons in three variations under one font : circled, rounded and regular.
 
 Demo & dowmload links : [http://drinchev.github.io/monosocialiconsfont](http://drinchev.github.io/monosocialiconsfont)
@@ -20,12 +22,12 @@ This font comes with included _liga_ feature for letter substitution of your ico
 
     @font-face {
         font-family: 'Mono Social Icons Font';
-        src: url('MonoSocialIconsFont-1.10.eot');
-        src: url('MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
-             url('MonoSocialIconsFont-1.10.woff') format('woff'),
-             url('MonoSocialIconsFont-1.10.ttf') format('truetype'),
-             url('MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
-        src: url('MonoSocialIconsFont-1.10.ttf') format('truetype');
+        src: url('MonoSocialIconsFont-1.20.eot');
+        src: url('MonoSocialIconsFont-1.20.eot?#iefix') format('embedded-opentype'),
+             url('MonoSocialIconsFont-1.20.woff') format('woff'),
+             url('MonoSocialIconsFont-1.20.ttf') format('truetype'),
+             url('MonoSocialIconsFont-1.20.svg#MonoSocialIconsFont') format('svg');
+        src: url('MonoSocialIconsFont-1.20.ttf') format('truetype');
         font-weight: normal;
         font-style: normal;
     }
@@ -75,6 +77,11 @@ Or if you work with [Compass](http://compass-style.org/), then you can use
     }
 
 ## Changelog
+
+### Version 1.20 ( 24 October 2013 )
+
+ - added researchgate icon
+ - added plain google icon
 
 ### Version 1.10 ( 21 May 2013 )
 
